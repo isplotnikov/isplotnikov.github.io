@@ -1,1 +1,3 @@
-test
+<?php
+printf('Hello');
+?>
